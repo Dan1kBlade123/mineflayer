@@ -4,10 +4,10 @@ const vec3 = require('vec3')
 const bot = mineflayer.createBot({
   host: 'ir.skyblock.uz',
   port: 25566,
-  username: 'Abbb'
+  username: 'ALMNOMINER'
 })
 bot.once("spawn", () => {
-    bot.chat("/login aaaaa");
+    bot.chat("/login Dan1k0690");
    
 })
 
